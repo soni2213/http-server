@@ -1,0 +1,5 @@
+dbname: home_db_development
+host: localhost
+port: 5432
+user: sonisahu
+password: soni
